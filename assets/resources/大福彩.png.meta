@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "c1ac6e7b-9c1b-4741-a26c-a8764f79550c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "大福彩": {
+      "ver": "1.0.3",
+      "uuid": "962c38d0-c174-4681-8284-1d6e00e118ef",
+      "rawTextureUuid": "c1ac6e7b-9c1b-4741-a26c-a8764f79550c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0.5,
+      "trimX": 3,
+      "trimY": 0,
+      "width": 195,
+      "height": 79,
+      "rawWidth": 200,
+      "rawHeight": 80,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

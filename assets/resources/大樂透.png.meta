@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "6578dc56-2b4b-47f4-94eb-36289559ec7c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "大樂透": {
+      "ver": "1.0.3",
+      "uuid": "2c59b6ac-6de5-4b4f-a158-c40d323c7b21",
+      "rawTextureUuid": "6578dc56-2b4b-47f4-94eb-36289559ec7c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": 0.5,
+      "trimX": 2,
+      "trimY": 0,
+      "width": 194,
+      "height": 79,
+      "rawWidth": 200,
+      "rawHeight": 80,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

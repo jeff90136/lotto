@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "2494877b-c220-4c21-9aef-971b43f72d5a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "39樂合彩": {
+      "ver": "1.0.3",
+      "uuid": "37cc2c41-cfee-41ed-b2e7-19a3df1dc869",
+      "rawTextureUuid": "2494877b-c220-4c21-9aef-971b43f72d5a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 200,
+      "height": 60,
+      "rawWidth": 200,
+      "rawHeight": 60,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
